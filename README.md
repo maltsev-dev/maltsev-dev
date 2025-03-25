@@ -4,7 +4,7 @@
 
 ---
 ### 📩 Feel free to reach out for collaboration or job inquiries.
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/anatolii-maltsev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/a-maltsev/)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logoColor=white)](https://t.me/replicantDuke)  
 
 ---
