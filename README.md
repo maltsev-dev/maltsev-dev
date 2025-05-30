@@ -1,4 +1,6 @@
-## ⌨️ Java SDET | 🦀 Rust Firmware Engineer 
+🟠 Advocate of the Sustainable Programming Philosophy  
+🟠 Lifelong learner, research-oriented engineer  
+🟠 Creative technologist
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&hide=TeX&layout=compact&theme=calm_pink)  
 
@@ -8,5 +10,4 @@
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logoColor=white)](https://t.me/replicantDuke)  
 
 ---
-![wars](https://www.codewars.com/users/chemyl/badges/micro)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl)  
