@@ -1,5 +1,5 @@
 🟠 Bringing AI to Life Inside RISC-V with Rust 🚀  
-🟠 Advocate of the Sustainable Programming Philosophy  
+🔵 Advocate of the Sustainable Programming Philosophy  
 🔵 Life-long learner, research-oriented engineer  
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maltsev-dev&theme=calm_pink" alt="mystreak"/>   
