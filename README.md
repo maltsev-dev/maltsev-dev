@@ -1,6 +1,6 @@
-🟠 Bringing AI to Life Inside RISC-V with Rust 🚀  
-🔵 Advocate of the Sustainable Programming Philosophy  
-🔵 Life-long learner, research-oriented engineer  
+### 🟠 Bringing AI to Life Inside RISC-V with Rust 🚀  
+### 🔵 Advocate of the Sustainable Programming Philosophy  
+### 🔵 Life-long learner, research-oriented engineer  
 
 ---
 <p align="center">
@@ -13,11 +13,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maltsev-dev&theme=github_dark" width="90%"/>
 </p>
 
+---
 ## Rust Journey
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,py,tensorflow,aiscript,ai,raspberrypi,arduino,vscode,bash,powershell,actix,wasm,sqlite" />
 </p>
 
+---
 ## AQA Foundation
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,maven,gradle,gherkin,figma,git,linux,idea,androidstudio,githubactions,jenkins,selenium,postman,sentry,kafka,redis,spring" />
