@@ -1,6 +1,6 @@
-🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.  
-🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.  
-🔵 Life-long learner, research-oriented engineer.  
+- 🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.  
+- 🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.  
+- 🔵 Life-long learner, research-oriented engineer.  
 
 ---
 <p align="center">
