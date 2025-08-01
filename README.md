@@ -2,8 +2,10 @@
 🔵 Advocate of the Sustainable Programming Philosophy  
 🔵 Life-long learner, research-oriented engineer  
 ---
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maltsev-dev&theme=calm_pink" alt="mystreak"/>   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&hide=TeX&layout=compact&theme=calm_pink"/>  
+<img src="https://github-readme-stats.vercel.app/api/langs/?username=maltsev-dev&hide=TeX&layout=compact&theme=calm_pink"/>
 
 ---
 ### 📩 Feel free to reach out for collaboration
