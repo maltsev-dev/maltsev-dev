@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&layout=compact&theme=calm_pink&hide_border=true&border_radius=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&layout=compact&theme=calm_pink&private=false&hide_border=true&border_radius=8" width="40%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maltsev-dev&theme=calm_pink&layout=compact&hide_border=true&border_radius=8" width="56%" />
 </p>
 
