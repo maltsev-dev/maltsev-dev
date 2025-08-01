@@ -1,8 +1,8 @@
-- 🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.  
-- 🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.  
-- 🔵 Life-long learner, research-oriented engineer.  
-
+🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.  
+🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.  
+🔵 Life-long learner, research-oriented engineer.  
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&layout=compact&theme=calm_pink&hide_border=true&border_radius=8" width="40%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maltsev-dev&theme=calm_pink&layout=compact&hide_border=true&border_radius=8" width="56%" />
