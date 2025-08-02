@@ -1,6 +1,6 @@
-#### 🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.  
-#### 🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.  
-#### 🔵 Life-long learner, research-oriented engineer.  
+<h3>🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.</h3>
+<h3>🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.</h3>
+<h3>🔵 Life-long learner, research-oriented engineer.</h3>
 
 ---
 <p align="center">
@@ -16,13 +16,13 @@
 ---
 ## Rust Journey
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,py,tensorflow,aiscript,ai,raspberrypi,arduino,vscode,bash,powershell,actix,wasm,sqlite" />
+  <img src="https://skillicons.dev/icons?i=rust,py,tensorflow,raspberrypi,arduino,aiscript,ai,vscode,bash,powershell,actix,wasm" />
 </p>
 
 ---
 ## AQA Foundation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,gradle,gherkin,figma,git,linux,idea,androidstudio,githubactions,jenkins,selenium,postman,sentry,kafka,redis,spring" />
+  <img src="https://skillicons.dev/icons?i=java,maven,gradle,gherkin,figma,jenkins,selenium,postman,sentry,kafka,redis,spring,linux,androidstudio,githubactions" />
 </p>
 
 ---
