@@ -6,8 +6,8 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&layout=compact&theme=github_dark&private=false" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maltsev-dev&theme=github_dark" width="63%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maltsev-dev&theme=github_dark&private=false&hide_border=true" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maltsev-dev&theme=github_dark&hide_border=true" width="63%"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maltsev-dev&theme=calm_pink&layout=compact&hide_border=true&border_radius=8" width="56%" /> -->
 </p>
 
