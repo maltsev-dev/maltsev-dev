@@ -1,5 +1,5 @@
 <h3>
-  🟠 Create memory-efficient and autonomous intelligent devices to bridge technology gaps in infrastructure-constrained areas.<br>
+  🟠 Create autonomous intelligent devices in infrastructure-constrained areas.<br>
   🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.<br>
   🔵 Life-long learner, research-oriented engineer.
 </h3>
