@@ -11,15 +11,8 @@
 </p>
 
 ---
-## Rust Journey
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,py,tensorflow,raspberrypi,arduino,aiscript,ai,vscode,bash,powershell,actix,wasm" />
-</p>
-
----
-## AQA Foundation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,gradle,gherkin,figma,jenkins,selenium,postman,sentry,kafka,redis,spring,linux,androidstudio,githubactions" />
+  <img src="https://skillicons.dev/icons?i=rust,py,tensorflow,raspberrypi,arduino,aiscript,ai,vscode,bash,powershell,actix,wasm,java,maven,gradle,gherkin,figma,jenkins,selenium,postman,sentry,kafka,redis,spring,linux,androidstudio,githubactions" />
 </p>
 
 ---
