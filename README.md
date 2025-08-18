@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,py,tensorflow,raspberrypi,arduino,aiscript,ai,vscode,bash,powershell,actix,wasm,java,maven,gradle,gherkin,figma,jenkins,selenium,postman,sentry,kafka,redis,spring,linux,androidstudio,githubactions" />
+  <img src="https://skillicons.dev/icons?i=rust,py,cpp,java,tensorflow,raspberrypi,arduino,aiscript,ai,vscode,bash,powershell,actix,wasm,java,maven,gradle,gherkin,figma,jenkins,selenium,postman,sentry,kafka,redis,spring,linux,androidstudio" />
 </p>
 
 ---
