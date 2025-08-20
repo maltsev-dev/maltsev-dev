@@ -11,9 +11,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,py,cpp,java,bash,powershell,tensorflow,raspberrypi,arduino,vscode,actix,wasm,maven,gradle,gherkin,sentry,kafka,redis,figma,jenkins,selenium,postman,spring,linux,androidstudio" />
-</p>
-
----
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl) <img src="https://img.shields.io/github/stars/maltsev-dev?label=Stars" alt="stars">
