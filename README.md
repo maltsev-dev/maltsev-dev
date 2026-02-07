@@ -1,8 +1,8 @@
 <h3 align="left">
   🟠 Create AI Agentic Workflows <br>
   🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.<br>
-  🔵 Life-long learner, research-oriented engineer.
-  🟣 Area of interests: SDET, GameDev, Smart Contracts, TinyML, Agentic Workflows
+  🔵 Life-long learner, research-oriented engineer.<br>
+  🟣 Area of interests: SDET, GameDev, Smart Contracts, TinyML, Agentic Workflows.
 </h3>
 
 ---
