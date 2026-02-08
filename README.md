@@ -12,7 +12,7 @@
     <!-- Left block: 35% -->
     <td width="32%" valign="top" style="padding-right:12px;">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maltsev-dev&theme=gruvbox"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maltsev-dev&theme=gruvbox&exclude=dart"
         width="100%"
         style="border-radius:10px;"
       />
