@@ -2,7 +2,6 @@
   🟠 Embrace experimentation and R&D in the field of modern technologies.<br>
   🔵 Life-long learner, research-oriented engineer.<br>
   🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.<br>
-  🟣 Areas of interest: Agentic AI, SDET, Game development, Smart-Contract, TinyML, Microcontrollers.<br>
 </h4>
 
 ---
