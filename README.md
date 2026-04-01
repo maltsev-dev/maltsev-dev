@@ -6,30 +6,17 @@
 
 ---
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <!-- Left block: 35% -->
-    <td width="32%" valign="top" style="padding-right:12px;">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maltsev-dev&theme=gruvbox&exclude=dart"
-        width="100%"
-        style="border-radius:10px;"
-      />
-    </td>
-
-   <td width="68%" valign="top" style="padding-left:12px;">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maltsev-dev&theme=gruvbox"
-        width="100%"
-        style="border-radius:10px;"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/maltsev-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maltsev-dev&langs_count=8&layout=compact&hide=Jupyter%20Notebook&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maltsev-dev&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=maltsev-dev&theme=material&radius=10" />
+  </a>
+</div>
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl" />
   <img src="https://img.shields.io/github/stars/maltsev-dev?label=Stars" />
   <img src="https://www.codewars.com/users/chemyl/badges/micro" />
