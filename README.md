@@ -1,5 +1,5 @@
 <h4 align="left">
-  🟠 Embrace experimentation and R&D in the field of modern technologies.<br>
+  🟠 Building runtime security infrastructure for AI agents.<br>
   🔵 Life-long learner, research-oriented engineer.<br>
   🔵 Advocate of the Sustainable Programming Philosophy and AI-enhanced development.<br>
 </h4>
@@ -16,7 +16,7 @@
 <br>
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chemyl.chemyl" />
-  <img src="https://img.shields.io/github/stars/maltsev-dev?label=Stars" />
-  <img src="https://www.codewars.com/users/chemyl/badges/micro" />
+  <img src="https://img.shields.io/badge/Building-NullRun.io-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-since%202019-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/maltsev-dev?style=for-the-badge" />
 </p>
