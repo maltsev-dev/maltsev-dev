@@ -49,19 +49,16 @@ Runtime authorization infrastructure for AI agents.
 ### Find Me Online
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~017ad72fa11d4f3d91">
-  <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" />
-</a>
+    <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" />
+  </a>
   <a href="https://www.linkedin.com/in/a-maltsev/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/maltsev-dev">
-    <img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />
+  <a href="https://t.me/a_maltsev_dev">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 <p align="left">
-  <a href="https://nullrun.io">
-    <img src="https://img.shields.io/badge/Building-NullRun.io-orange?style=for-the-badge" alt="Building NullRun.io" />
-  </a>
   <img src="https://img.shields.io/badge/GitHub-since%202019-blue?style=for-the-badge" alt="GitHub since 2019" />
   <img src="https://img.shields.io/github/stars/maltsev-dev?style=for-the-badge" alt="GitHub stars" />
 </p>
