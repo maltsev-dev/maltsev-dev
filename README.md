@@ -49,14 +49,14 @@ Runtime authorization infrastructure for AI agents.
 ### Find Me Online
 <p align="left">
   <a href="https://www.linkedin.com/in/a-maltsev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/a_maltsev_dev">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Contact?style=for-the-badge&logoColor=white" alt="Telegram" />
   </a>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-since%202019-blue?style=for-the-badge" alt="GitHub since 2019" />
+  <img src="https://img.shields.io/badge/GitHub-since%202019-orange?style=for-the-badge" alt="GitHub since 2019" />
   <img src="https://img.shields.io/github/stars/maltsev-dev?style=for-the-badge" alt="GitHub stars" />
 </p>
 
