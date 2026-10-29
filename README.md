@@ -48,9 +48,6 @@ Runtime authorization infrastructure for AI agents.
 
 ### Find Me Online
 <p align="left">
-  <a href="https://www.upwork.com/freelancers/~017ad72fa11d4f3d91">
-    <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" />
-  </a>
   <a href="https://www.linkedin.com/in/a-maltsev/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
